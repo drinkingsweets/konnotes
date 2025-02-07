@@ -1,0 +1,29 @@
+
+“
+java:S3655r"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ëî¢8ıé¸İÂ2J$77a92895-7c45-4b5e-9a47-dbf3fd4b838f
+“
+java:S3655c"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ëî¢8ıé¸İÂ2J$a1acdafc-40cb-4671-805b-c5ae3a48b267
+Š
+java:S1192]"GDefine a constant instead of duplicating this literal "/notes" 3 times.(‡«£®8şé¸İÂ2J$dcebf14b-0003-4a09-b749-ceea2eeacb33
+ˆ
+java:S1192O"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(ç›Ï8…ÅºİÂ2J$9021a7c1-d6a6-4d84-a4ab-3141f8211e7e
+’
+java:S1192D"JDefine a constant instead of duplicating this literal "text/html" 3 times.(ïòîÀşÿÿÿÿ8şé¸İÂ2J$29a5859b-a05e-4a06-802f-07824631e34f
+…
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÿé¸İÂ2J$56083241-7a5a-4ab8-8fc9-588dca610517
+
+java:S18543"<Remove this useless assignment to local variable "contents".(Üéö£8ƒê¸İÂ2J$b587f1d3-a1c7-410c-92b0-bfedf35857be
+½
+java:S62040"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8…ê¸İÂ2J$717e9f6e-0f5b-4fd6-85d1-55c73cab3447
+½
+java:S62045"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8…ê¸İÂ2J$c73b221b-448a-4dd8-b543-9d40b560a5f9
+p
+java:S14813"-Remove this unused "contents" local variable.(Üéö£8†ê¸İÂ2J$a42fe7b6-5a0e-487c-ac1a-d4edcecfb454
+½
+java:S6204:"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8†ê¸İÂ2J$0d5b4f63-da26-44e0-95b5-6dcdeaeea00d
+½
+java:S6204>"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8†ê¸İÂ2J$525354b1-1eec-4f97-b69c-f6c0aa141db6
+r	java:S106Y"+Replace this use of System.out by a logger.(ŠíÕ˜ûÿÿÿÿ8Šê¸İÂ2J$f864d24c-e7f3-49a3-a2c4-c051c4c80bcc
+r	java:S106d"+Replace this use of System.out by a logger.(ŒüëÕùÿÿÿÿ8ê¸İÂ2J$9d2251bd-6b31-4a9a-9796-025c2a7d071a
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8¢ê¸İÂ2J$afd0c543-4ebd-494f-8240-dc00786c116c
