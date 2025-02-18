@@ -1,26 +1,26 @@
 
 ’
-java:S1192*"JDefine a constant instead of duplicating this literal "text/html" 4 times.(ïòîÀşÿÿÿÿ8Ì÷¯äÁ2J$a280b3e7-f273-4448-9b04-2b8920dc056a
+java:S1192*"JDefine a constant instead of duplicating this literal "text/html" 4 times.(ïòîÀşÿÿÿÿ8Ì÷¯äÁ2J$655fa528-26e8-4c88-a9ac-c42350b5a9c4
 Š
-java:S1192'"GDefine a constant instead of duplicating this literal "errors" 4 times.(Ö—ùÉ8Í÷¯äÁ2J$e42a14c2-00fb-4c51-a7b0-f5133906467c
+java:S1192'"GDefine a constant instead of duplicating this literal "errors" 4 times.(Ö—ùÉ8Í÷¯äÁ2J$5aa7e3bb-6181-40fe-956f-a41c607f5783
 Œ
-java:S1192'"IDefine a constant instead of duplicating this literal "username" 4 times.(Ö—ùÉ8Í÷¯äÁ2J$5a1a78b4-9b4f-48da-a52c-60f4a984b01d
+java:S1192'"IDefine a constant instead of duplicating this literal "username" 4 times.(Ö—ùÉ8Í÷¯äÁ2J$e02c0bdc-08cc-4bc4-9220-21d34144afc1
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Í÷¯äÁ2J$058d4f57-40d8-4caf-8e82-12ba32aebd2b
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Í÷¯äÁ2J$eda44460-56a8-4bb8-ae9d-45b23de7a380
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Í÷¯äÁ2J$5107a8d5-1976-478b-b7c0-7b1937f13538
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Í÷¯äÁ2J$7e4320e6-fea0-4573-bb34-fdf472da8c51
 …
-java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8Í÷¯äÁ2J$4d4387d1-e8a5-42aa-8a70-30a984ac8b36
-l	java:S106Y"+Replace this use of System.out by a logger.(ùø¼8Õ÷¯äÁ2J$b23c4030-decc-4933-894d-d9b350488c58
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8Í÷¯äÁ2J$538c1c4d-ddb1-4127-a08f-7099ba699fe8
+l	java:S106Y"+Replace this use of System.out by a logger.(ùø¼8Õ÷¯äÁ2J$f15f6754-e3eb-4f83-9106-e375d656bdb9
 y
-java:S1128"6Remove this unused import 'app.dto.BuildRegisterPage'.(œÉ¶ì8Ö÷¯äÁ2J$1a0621d5-88e0-407e-8791-a63c1b5446ac
+java:S1128"6Remove this unused import 'app.dto.BuildRegisterPage'.(œÉ¶ì8Ö÷¯äÁ2J$f36e5ca4-4b1d-4d62-b8b5-71a594a6a0a8
 z
-java:S1128"2Remove this unused import 'gg.jte.TemplateEngine'.(ƒ†Èäşÿÿÿÿ8Ö÷¯äÁ2J$e8f30244-441a-4349-b3b3-eb9b9f29851f
+java:S1128"2Remove this unused import 'gg.jte.TemplateEngine'.(ƒ†Èäşÿÿÿÿ8Ö÷¯äÁ2J$93bb0c3d-f752-4477-a954-b99620d12982
 ·
-java:S1128"oRemove this unused import 'org.springframework.security.config.annotation.web.configuration.EnableWebSecurity'.(ŸÜÑıÿÿÿÿ8¡Ç°äÁ2J$cf1e8d2c-02e2-4b7b-9d88-5f47107250f2
+java:S1128"oRemove this unused import 'org.springframework.security.config.annotation.web.configuration.EnableWebSecurity'.(ŸÜÑıÿÿÿÿ8¡Ç°äÁ2J$874d50c8-a90e-46fa-80b7-760a9ebb4ffb
 “
-java:S1128"KRemove this unused import 'org.springframework.security.core.parameters.P'.(Æ­Åıÿÿÿÿ8×÷¯äÁ2J$c8548e21-35cf-4442-9e3d-f7a950cb476c
+java:S1128"KRemove this unused import 'org.springframework.security.core.parameters.P'.(Æ­Åıÿÿÿÿ8×÷¯äÁ2J$5ef38b7b-51f7-493f-8894-161385d29d7b
 
-java:S1128"9Remove this unused import 'org.springframework.ui.Model'.(ê†ıÿÿÿÿ8×÷¯äÁ2J$725f1978-423f-4c42-bd55-01cccc769637
+java:S1128"9Remove this unused import 'org.springframework.ui.Model'.(ê†ıÿÿÿÿ8×÷¯äÁ2J$7d292767-3624-4552-8c8b-df69e57bc679
 –
-java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ë8¡Ç°äÁ2J$5295dc8a-b8c2-467f-9d48-e337bbda75cc
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ë8¡Ç°äÁ2J$9fb2cc00-d5cc-4733-9e95-fbfb09cc1670
